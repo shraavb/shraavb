@@ -2,7 +2,7 @@
 
 **CS & Management @ University of Pennsylvania** | Building at the intersection of AI, Product, and Hardware
 
-I'm passionate about creating intelligent systems that solve real problems — from voice-first AI agents to autonomous robots and embedded medical devices.
+I'm passionate about creating intelligent systems that solve real problems - from voice-first AI agents to autonomous robots and embedded medical devices.
 
 ---
 
