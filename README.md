@@ -63,7 +63,7 @@ I'm passionate about creating intelligent systems that solve real problems - fro
 
 - **Product Management Intern** @ TE Connectivity
 - **Product Lead** @ Develop for Good
-- **PM & Engineering Intern** @ Manatal (SleekJob - 1.2k users, 10+ countries)
+- **PM Intern** @ Manatal (SleekJob - 1.2k users, 10+ countries)
 
 ---
 
