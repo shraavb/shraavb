@@ -8,9 +8,9 @@ I'm passionate about creating intelligent systems that solve real problems — f
 
 ### What I'm Working On
 
-- **Orbit** — A voice-first AI personal agent with Claude, LangChain, and real-time speech processing
-- **OpenAPS** — Embedded systems for closed-loop insulin control using Arduino and FreeRTOS
-- **JetBot** — Autonomous robot with computer vision on NVIDIA Jetson Nano
+- **Orbit**: A voice-first AI personal agent with Claude, LangChain, and real-time speech processing
+- **OpenAPS**: Embedded systems for closed-loop insulin control using Arduino and FreeRTOS
+- **JetBot**: Autonomous robot with computer vision on NVIDIA Jetson Nano
 
 ---
 
