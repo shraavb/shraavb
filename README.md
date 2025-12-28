@@ -2,15 +2,14 @@
 
 **CS & Management @ University of Pennsylvania** | Building at the intersection of AI, Product, and Hardware
 
-I'm passionate about creating intelligent systems that solve real problems - from voice-first AI agents to autonomous robots and embedded medical devices.
+I'm interested in creating intelligent systems that solve real problems - from voice-first AI agents to autonomous robots.
 
 ---
 
 ### What I'm Working On
 
-- **Orbit**: A voice-first AI personal agent with Claude, LangChain, and real-time speech processing
-- **OpenAPS**: Embedded systems for closed-loop insulin control using Arduino and FreeRTOS
 - **JetBot**: Autonomous robot with computer vision on NVIDIA Jetson Nano
+- **Orbit**: A voice-first AI personal agent with Claude, LangChain, and real-time speech processing
 
 ---
 
@@ -63,7 +62,7 @@ I'm passionate about creating intelligent systems that solve real problems - fro
 
 - **Product Management Intern** @ TE Connectivity
 - **Product Lead** @ Develop for Good
-- **PM Intern** @ Manatal (SleekJob - 1.2k users, 10+ countries)
+- **Product Management Intern** @ Manatal (SleekJob - 1.2k users, 10+ countries)
 
 ---
 
