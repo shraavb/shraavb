@@ -51,9 +51,9 @@ I'm interested in creating intelligent systems that solve real problems - from v
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [Orbit](https://github.com/shraavb) | Voice-first AI agent with real-time speech, multi-channel messaging | Claude, LangChain, FastAPI, Whisper |
+| [Orbit](https://github.com/shraavb/Orbit-your-personal-agent) | Voice-first AI agent with real-time speech, multi-channel messaging | Claude, LangChain, FastAPI, Whisper |
 | [JetBot](https://github.com/shraavb/jetbot_waveshare) | Autonomous robot with computer vision | Python, ROS, NVIDIA Jetson |
-| [Bridge](https://bridge-production-8580.up.railway.app) | Multi-modal language learning platform | OpenAI, Grok API, React |
+| [SpeakEasy](https://shraavb.github.io/-Senior-Design-SpeakEasy/) | Multi-modal language learning platform | OpenAI, Grok API, React |
 | [Coral Reef Drone](https://github.com/MakerBay/Coral_Reef_Mapping_Drone) | Open-source drone for coral reef health analysis | Raspberry Pi, OpenCV, 3D Printing |
 
 ---
