@@ -24,18 +24,18 @@ End-to-end sim-to-real ML pipeline for autonomous robot navigation using Vision-
 
 `PyTorch` `NVIDIA Isaac Sim` `SmolVLA` `Jetson`
 
-<img src="https://raw.githubusercontent.com/shraavb/Shraav-sMindPalace/gh-pages/img/jetbot_jetson_nano.2227dc08.jpg" width="100%" />
+<img src="https://raw.githubusercontent.com/shraavb/Shraav-sMindPalace/gh-pages/img/jetbot_jetson_nano.2227dc08.jpg" width="100%" height="140" style="object-fit: cover;" />
 
 </td>
 <td width="50%">
 
 **[Orbit: Voice-First AI Agent](https://github.com/shraavb/Orbit-your-personal-agent)**
 
-Multi-step LangChain agent with voice I/O, MCP integration, and multi-channel messaging (SMS, Email, Slack, WhatsApp).
+Multi-step LangChain agent with voice I/O, MCP integration, and multi-channel messaging.
 
 `Claude API` `LangChain` `Whisper` `FastAPI`
 
-<img src="https://raw.githubusercontent.com/shraavb/Shraav-sMindPalace/gh-pages/img/Orbit_Project_Image.3830e0fc.png" width="100%" />
+<img src="https://raw.githubusercontent.com/shraavb/Shraav-sMindPalace/gh-pages/img/Orbit_Project_Image.3830e0fc.png" width="100%" height="140" style="object-fit: cover;" />
 
 </td>
 </tr>
@@ -48,18 +48,18 @@ Multi-step LangChain agent with voice I/O, MCP integration, and multi-channel me
 
 `LangGraph` `pgvector` `React` `FastAPI`
 
-<img src="https://raw.githubusercontent.com/shraavb/Shraav-sMindPalace/gh-pages/img/procura_proj_img.15a2fe0c.png" width="100%" />
+<img src="https://raw.githubusercontent.com/shraavb/Shraav-sMindPalace/gh-pages/img/procura_proj_img.15a2fe0c.png" width="100%" height="140" style="object-fit: cover;" />
 
 </td>
 <td width="50%">
 
 **[SpeakEasy: Language Learning](https://github.com/shraavb/-Senior-Design-SpeakEasy)**
 
-Speech-to-speech platform with LoRA fine-tuned Llama 3, 6-metric fluency scoring, and 37 conversation scenarios.
+Speech-to-speech platform with LoRA fine-tuned Llama 3, 6-metric fluency scoring, and 37 scenarios.
 
 `Llama 3` `LoRA` `Whisper ASR` `React`
 
-<img src="https://raw.githubusercontent.com/shraavb/Shraav-sMindPalace/gh-pages/img/SpeakEasy_Master_Conversational_Fluency.2876b450.png" width="100%" />
+<img src="https://raw.githubusercontent.com/shraavb/Shraav-sMindPalace/gh-pages/img/SpeakEasy_Master_Conversational_Fluency.2876b450.png" width="100%" height="140" style="object-fit: cover;" />
 
 </td>
 </tr>
@@ -90,15 +90,10 @@ Speech-to-speech platform with LoRA fine-tuned Llama 3, 6-metric fluency scoring
 
 ### Experience
 
-**TE Connectivity** · Product Management Intern · *Summer 2025*
-**Manatal** · Product & Project Management Intern · *Dec 2023 - Jun 2024*
-**Develop for Good** · Product Lead & Designer · *Mar - Apr 2025*
+- **TE Connectivity** · Product Management Intern · *Summer 2025*
+- **Manatal** · Product & Project Management Intern · *Dec 2023 - Jun 2024*
+- **Develop for Good** · Product Lead & Designer · *Mar - Apr 2025*
 
 ---
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=shraavb&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shraavb&layout=compact&theme=default&hide_border=true&hide=html,css" />
-</p>
 
 <p align="center"><em>Currently exploring VLA models, multi-agent systems, and embedded AI.</em></p>
