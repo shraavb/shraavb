@@ -7,7 +7,10 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/shraavasti-bhat/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="https://shraavb.github.io/Shraav-sMindPalace/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=safari&logoColor=white" /></a>
-  <a href="mailto:shraavb@wharton.upenn.edu"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  shraavastib at gmail dot com
 </p>
 
 ---
@@ -15,6 +18,30 @@
 ### Featured Projects
 
 <table>
+<tr>
+<td width="50%" valign="top">
+
+**[Ego4D Hierarchical Offline RL](https://github.com/shraavb/ego4d-hierarchical-rl)**
+
+Two-stage hierarchical policy combining Ego4D video pretraining with LeRobot SO-101 fine-tuning for long-horizon robot manipulation.
+
+`Offline RL` `Decision Transformer` `DINOv2` `ROS 2`
+
+<img src="https://raw.githubusercontent.com/shraavb/Shraav-sMindPalace/gh-pages/img/ego4d_hierarchical_rl_cover.6d1c21f9.png" width="100%" />
+
+</td>
+<td width="50%" valign="top">
+
+**[LeRobot SO-101: Pick & Place](https://huggingface.co/shraavb/act_pick_place_cube)**
+
+6-DOF robotic arm trained on 50 human demos using ACT imitation learning for autonomous pick-and-place.
+
+`LeRobot` `ACT Policy` `Imitation Learning` `PyTorch`
+
+<img src="https://raw.githubusercontent.com/shraavb/Shraav-sMindPalace/gh-pages/img/le_robot_cover_img.7143ba29.jpg" width="100%" />
+
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 
@@ -96,4 +123,4 @@ Speech-to-speech platform with LoRA fine-tuned Llama 3, 6-metric fluency scoring
 
 ---
 
-<p align="center"><em>Currently exploring VLA models, multi-agent systems, and embedded AI.</em></p>
+<p align="center"><em>Currently building hierarchical RL for robot manipulation, multi-agent systems, and edge-deployed VLAs.</em></p>
