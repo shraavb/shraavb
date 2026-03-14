@@ -21,7 +21,7 @@
 <tr>
 <td width="50%" valign="top">
 
-**[Trekker 🏔️](https://github.com/shraavb/Trekker)**
+**[Trekker 🏔️](https://github.com/shraavb/Trekker)** &nbsp; ![Status](https://img.shields.io/badge/status-in%20progress-yellow)
 
 Autonomous construction site inspection rover built on Cyberwave. GPS-fused EKF localization, visual SLAM, Nav2 geofenced navigation, and YOLOv8 + VLM hazard detection streamed to a live supervisory dashboard.
 
