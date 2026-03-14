@@ -54,6 +54,19 @@ End-to-end sim-to-real ML pipeline for autonomous robot navigation using Vision-
 </td>
 <td width="50%" valign="top">
 
+**[SpeakEasy: Language Learning](https://github.com/shraavb/-Senior-Design-SpeakEasy)**
+
+Speech-to-speech platform with LoRA fine-tuned Llama 3, 6-metric fluency scoring, and 37 scenarios.
+
+`Llama 3` `LoRA` `Whisper ASR` `React`
+
+<img src="https://raw.githubusercontent.com/shraavb/Shraav-sMindPalace/gh-pages/img/SpeakEasy_Master_Conversational_Fluency.2876b450.png" width="100%" />
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 **[Orbit: Voice-First AI Agent](https://github.com/shraavb/Orbit-your-personal-agent)**
 
 Multi-step LangChain agent with voice I/O, MCP integration, and multi-channel messaging.
@@ -63,8 +76,6 @@ Multi-step LangChain agent with voice I/O, MCP integration, and multi-channel me
 <img src="https://raw.githubusercontent.com/shraavb/Shraav-sMindPalace/gh-pages/img/Orbit_Project_Image.3830e0fc.png" width="100%" />
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 **[Procura: Multi-Agent BOM System](https://github.com/shraavb/Procura)**
@@ -74,17 +85,6 @@ Multi-step LangChain agent with voice I/O, MCP integration, and multi-channel me
 `LangGraph` `pgvector` `React` `FastAPI`
 
 <img src="https://raw.githubusercontent.com/shraavb/Shraav-sMindPalace/gh-pages/img/procura_proj_img.15a2fe0c.png" width="100%" />
-
-</td>
-<td width="50%" valign="top">
-
-**[SpeakEasy: Language Learning](https://github.com/shraavb/-Senior-Design-SpeakEasy)**
-
-Speech-to-speech platform with LoRA fine-tuned Llama 3, 6-metric fluency scoring, and 37 scenarios.
-
-`Llama 3` `LoRA` `Whisper ASR` `React`
-
-<img src="https://raw.githubusercontent.com/shraavb/Shraav-sMindPalace/gh-pages/img/SpeakEasy_Master_Conversational_Fluency.2876b450.png" width="100%" />
 
 </td>
 </tr>
