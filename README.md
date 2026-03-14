@@ -21,13 +21,11 @@
 <tr>
 <td width="50%" valign="top">
 
-**[Ego4D Hierarchical Offline RL](https://github.com/shraavb/ego4d-hierarchical-rl)**
+**[Trekker 🏔️](https://github.com/shraavb/Trekker)**
 
-Two-stage hierarchical policy combining Ego4D video pretraining with LeRobot SO-101 fine-tuning for long-horizon robot manipulation.
+Autonomous construction site inspection rover built on Cyberwave. GPS-fused EKF localization, visual SLAM, Nav2 geofenced navigation, and YOLOv8 + VLM hazard detection streamed to a live supervisory dashboard.
 
-`Offline RL` `Decision Transformer` `DINOv2` `ROS 2`
-
-<img src="https://raw.githubusercontent.com/shraavb/Shraav-sMindPalace/gh-pages/img/ego4d_hierarchical_rl_cover.6d1c21f9.png" width="100%" />
+`ROS 2` `Nav2` `EKF` `YOLOv8` `Cyberwave`
 
 </td>
 <td width="50%" valign="top">
@@ -123,4 +121,4 @@ Speech-to-speech platform with LoRA fine-tuned Llama 3, 6-metric fluency scoring
 
 ---
 
-<p align="center"><em>Currently building hierarchical RL for robot manipulation, multi-agent systems, and edge-deployed VLAs.</em></p>
+<p align="center"><em>Currently building autonomous inspection robots, multi-agent systems, and edge-deployed VLAs.</em></p>
