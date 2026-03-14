@@ -27,6 +27,8 @@ Autonomous construction site inspection rover built on Cyberwave. GPS-fused EKF 
 
 `ROS 2` `Nav2` `EKF` `YOLOv8` `Cyberwave`
 
+<img src="https://raw.githubusercontent.com/shraavb/Trekker/main/trekker.jpeg" width="100%" />
+
 </td>
 <td width="50%" valign="top">
 
