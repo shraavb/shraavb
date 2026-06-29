@@ -21,13 +21,13 @@
 <tr>
 <td width="50%" valign="top">
 
-**[Trekker 🏔️](https://github.com/shraavb/Trekker)** &nbsp; ![Status](https://img.shields.io/badge/status-in%20progress-yellow)
+**[Roro 🤖](https://github.com/shraavb/rover-crew)**
 
-Autonomous construction site inspection rover built on Cyberwave. GPS-fused EKF localization, visual SLAM, Nav2 geofenced navigation, and YOLOv8 + VLM hazard detection streamed to a live supervisory dashboard.
+Home rover you talk to. A Gemma 4 (31B) agent crew on Cerebras turns voice commands into navigation: an intent-parser parses speech into structured commands, a perception agent reads the camera every step, and a safety agent vetoes unsafe moves. Runs on a physical Waveshare UGV and in MuJoCo sim.
 
-`ROS 2` `Nav2` `EKF` `YOLOv8` `Cyberwave`
+`Gemma 4` `Cerebras` `Whisper` `MuJoCo` `Computer Vision`
 
-<img src="https://raw.githubusercontent.com/shraavb/Trekker/main/trekker.jpeg" width="100%" />
+<img src="https://raw.githubusercontent.com/shraavb/rover-crew/main/assets/roro.jpeg" width="100%" />
 
 </td>
 <td width="50%" valign="top">
