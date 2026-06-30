@@ -27,7 +27,7 @@ Home rover you talk to. A Gemma 4 (31B) agent crew on Cerebras turns voice comma
 
 `Gemma 4` `Cerebras` `Whisper` `MuJoCo` `Computer Vision`
 
-<img src="https://raw.githubusercontent.com/shraavb/rover-crew/main/assets/roro.jpeg" width="100%" />
+<img src="https://raw.githubusercontent.com/shraavb/rover-crew/master/assets/roro.jpeg" width="100%" />
 
 </td>
 <td width="50%" valign="top">
